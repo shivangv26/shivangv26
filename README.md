@@ -12,7 +12,7 @@
 <h3 align="center">Software Developer | Full Stack Developer</h3>
 
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://shivangv26.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-lightpink?style=for-the-badge"/>
   </a>
   <a href="mailto:shivangverma536@gmail.com">
